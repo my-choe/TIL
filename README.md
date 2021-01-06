@@ -2,7 +2,7 @@
 
 ## 📢Intro
 * 하루동안 공부한 내용 또는 개발 관련 경험을 쌓아가는 **아카이브**입니다.<br />
-* 개인적으로 공부한 지식이기에 다른 분들의 도움이 필요합니다.<br />
+* 개인적으로 공부한 지식이기에 많이 부족하여 다른 분들의 도움이 필요합니다.<br />
 * 수정이 필요한 부분이 있다면 **Issues 또는 PR** 부탁드립니다. 고맙습니다.<br /><br />
 
 
@@ -15,7 +15,7 @@
   * **[hotfix]** : 띄어쓰기 또는 오탈자 수정
   #### 🔑 Example
   <pre><code>[create]: Create Java-DesignPatterns.md<br />
-  [update] : pdate Java-DesignPatterns.md(생성패턴 예제 추가)<br />
+  [update]: pdate Java-DesignPatterns.md(생성패턴 예제 추가)<br />
   [hotfix]: 띄어쓰기 및 오탈자 수정
   </code></pre><br /><br />
   
@@ -25,8 +25,12 @@
 * [Clean Code](#clean-code)
 * [Design Patterns](#design-patterns)
 * [Git](#git)
+* [Python](#python)
 
 ### 📁Algorithm
 ### 📁Clean Code
 ### 📁Design Patterns
 ### 📁Git
+### 📁Python
+* [virtualenv](https://github.com/my-choe/TIL/blob/main/python/virtualenv.md)
+
