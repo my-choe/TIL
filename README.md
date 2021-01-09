@@ -27,10 +27,19 @@
 * [Git](#git)
 * [Python](#python)
 
+---
+
 ### 📁Algorithm
 ### 📁Clean Code
 ### 📁Design Patterns
+* [Design Patterns(디자인 패턴)]()
+  * [Creational Patterns(생성패턴)]()
+    * [Singleton Pattern(싱글톤패턴)]()
+    * [Factory Method Pattern(팩토리메소드 패턴)]()
+    * [Abstract Factory Pattern(추상팩토리 패턴)]()
+    * [Builder Pattern(빌더 패턴)]()
+    * [ProtoType Pattern(프로토타입 패턴)]()
 ### 📁Git
 ### 📁Python
-* [virtualenv](https://github.com/my-choe/TIL/blob/main/python/virtualenv.md)
+* [virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
 
