@@ -213,3 +213,14 @@ public class BridgeMain {
 |Hello, Universe!|
 +----------------+
 ```
+
+
+```
+Bridge 패턴의 핵심은 ' 기능 클래스 계층'과 '구현 클래스 계층'을 분리하는 것. <br/>
+이 두 개의 클래스 계층을 분리해 두면 각각의 클래스 계층을 독립적으로 확장할 수 있다. <br/>
+기능을 추가하고 싶으면 기능의 클래스 계층에 클래스를 추가한다.  <br/>
+이때 구현의 클래스 계층은 전혀 수정할 필요가 없다. 새로 추가한 기능은 모든 구현에서 이용할 수 있다. <br/>
+예제 프로그램에서는 Main 클래스 내에서 Display나 CountDisplay의 인스턴스를 만들고 그때 StringDisplayImpl의 인스턴스를 인수에게 전달했다. <br/>
+만약, StringDisplayImpl 클래스 말고 다른 ...DisplayImpl 클래스를 만들었다고 가정하고 <br/>
+ 인스턴스를 Dsiplay나 CountDisplay에게 전달하면 그것으로 구현이 확실히 교체된다.
+```
