@@ -38,6 +38,7 @@ public abstract class Entry {
 	
 }
 ```
+`Entry클래스는 Filer과 Directory의 상위 클래스로 공통 인터페이스를 정의하고, 디렉토리명 또는 파일명을 생성하는 인자로 생성자를 제공한다.  하위에서는 자식 객체를 추가할 수 있는 add()메서드와 디렉토리 경로를 보여주는 PrintList() 메서드를 구현한다.`
 
 <br/><br/>
 🔻 File 클래스
@@ -93,6 +94,8 @@ public class Directory extends Entry{
 	}
 }
 ```
+`그릇 객체에 해당하는 Directory클래스. 하위에 존재하는 자식객체들(Directory, file)을 관리하기 위한 ArrayList가 존재하며 add()메서드를 통해 객체를 추가한다.
+PrintList에서는 ArrayList에 존재하는 자식 객체들에 대한 PrintList() 메서드를 호출시킨다(재귀적인 구조)`
 
 <br/><br/>
 🔻 Main 클래스
