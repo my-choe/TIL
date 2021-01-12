@@ -34,11 +34,19 @@
 ### 📁Design Patterns
 * [Design Patterns(디자인 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/DesignPatterns.md)
   * [Creational Patterns(생성패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/0_CreationalPatterns.md)
-    * [Singleton Pattern(싱글톤패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/1_SingletonPattern.md)
+    * [Singleton Pattern(싱글톤 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/1_SingletonPattern.md)
     * [Factory Method Pattern(팩토리메소드 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/2_FactoryMethodsPattern.md)
     * [Abstract Factory Pattern(추상팩토리 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/3_AbstractFactoryPattern.md)
     * [Builder Pattern(빌더 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/4_BuilderPattern.md)
     * [ProtoType Pattern(프로토타입 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/5_PrototypePattern.md)
+  * [Structral Patterns(구조패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/0_StructralPatterns.md)
+    * [Adapter Pattern(어댑터 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/1_AdapterPattern.md)
+    * [Bridge Pattern(브리지 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/2_BridgePattern.md)
+    * [Composite Pattern(컴포지트 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/3_CompositePattern.md)
+    * [Decorator Pattern(데코레이터 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/4_DecoratorPattern.md)
+    * [Facade Pattern(파사드 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/5_FacadePattern.md)
+    * [Flyweight Pattern(플라이웨이트 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/6_FlyweightPattern.md)
+    * [Proxy Pattern(프록시 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/7_ProxyPattern.md)
 ### 📁Git
 ### 📁Python
 * [virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
