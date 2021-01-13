@@ -22,15 +22,12 @@
 
 ## 🧾 Categories
 * [Algorithm](#algorithm)
-* [Clean Code](#clean-code)
 * [Design Patterns](#design-patterns)
-* [Git](#git)
 * [Python](#python)
 
 ---
 
 ### 📁Algorithm
-### 📁Clean Code
 ### 📁Design Patterns
 * [Design Patterns(디자인 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/DesignPatterns.md)
   * [Creational Patterns(생성패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/CreationalPatterns/0_CreationalPatterns.md)
@@ -47,7 +44,6 @@
     * [Facade Pattern(파사드 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/5_FacadePattern.md)
     * [Flyweight Pattern(플라이웨이트 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/6_FlyweightPattern.md)
     * [Proxy Pattern(프록시 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/7_ProxyPattern.md)
-### 📁Git
 ### 📁Python
 * [virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
 
