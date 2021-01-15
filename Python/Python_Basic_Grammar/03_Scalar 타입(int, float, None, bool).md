@@ -86,6 +86,7 @@ inf
 >>> float("-inf")
 -inf
 ```
+<br/>
 
 * 실수와 정수의 덧셈은 실수 입니다.
 ```python
@@ -152,6 +153,7 @@ False
 True
 ```
 <br/>
+
 * list, set, dictionary 등의 컬렉션 타입을 변환해보겠습니다. 역시나 빈 값은 False입니다.
 ```python
   >>> bool([])
