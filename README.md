@@ -21,7 +21,7 @@
   
 
 ## 🧾 Categories
-* [Algorithm](#lgorithm)
+* [Algorithm](#Algorithm)
 * [Design Patterns](#design-patterns)
 * [Git](#git)
 * [Python](#python)
