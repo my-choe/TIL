@@ -64,6 +64,8 @@
 * [virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
 
 ### 📁React
-* [React_Node_Mongo_Project](https://github.com/my-choe/TIL/blob/main/React/React_Node_Mongo_Project.md)
+* [React Node Mongo Project](https://github.com/my-choe/TIL/blob/main/React/React_Node_Mongo_Project.md)
+  * [React-client 소스코드](https://github.com/my-choe/react-client)
+  * [React-server 소스코드](https://github.com/my-choe/react-server)
 
 
