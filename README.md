@@ -52,6 +52,7 @@
 * [Markdown Guide](https://github.com/my-choe/TIL/blob/main/Git/Github/MarkdownGuide.md)
     
 ### 📁Python
+* [Python Basic Grammar(진행중)](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar.md)
 * [virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
 
 ### 📁React
