@@ -93,4 +93,4 @@
 
 
 <br/><br/><br/>
-> 참고 : [wikidocs(파이썬 - 기본을 갈고 닦자!)](https://wikidocs.net/16035)
+> 참고 : [wikidocs(파이썬 - 기본을 갈고 닦자!)](https://wikidocs.net/16036)
