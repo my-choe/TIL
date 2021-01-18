@@ -267,7 +267,7 @@ True
 
 
 <br/><br/><br/>
-## dictionary(딕셔너리)를 읽기 쉽게 표현해주는 pprint
+## 9.dictionary(딕셔너리)를 읽기 쉽게 표현해주는 pprint
 * pprint모듈로 dictionary를 찍어보자
 ```python
 >>> from pprint import pprint as pp
