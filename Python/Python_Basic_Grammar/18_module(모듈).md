@@ -21,9 +21,11 @@ with urlopen('http://blogattach.naver.net/ca5fd665752b2ef2dd3a506a5db3c1b01343b8
 
 for word in story_words:
   print(word)
+ ```
 <br/>
 
-*터미널 또는 명령어프롬프트로 파일이 저장된 위치로 들어간 후 아래의 명령어를 입력합니다.
+* 터미널 또는 명령어프롬프트로 파일이 저장된 위치로 들어간 후 아래의 명령어를 입력합니다.
+
 ```python
 $ python words.py
 나는
