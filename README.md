@@ -8,7 +8,7 @@
 
 
 ## 🔒 Rules
-* 폴더 및 파일명은 영문으로 작성한다.
+* 폴더 및 파일명은 국문 또는 영문으로 작성한다.
 * 커밋은 크게 3가지로 구분하였으며 다음을 참고하여 작성한다.<br />
   * **[create]** : 새로운 문서 생성<br />
   * **[update]** : 기존 문서 보강 또는 Issues&PR로 발견된 사항 수정<br />
@@ -67,7 +67,7 @@
   * [12. List(4) - 리스트 원소 추가, 삭제](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/12_List(4)_%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9B%90%EC%86%8C_%EC%B6%94%EA%B0%80%EC%82%AD%EC%A0%9C.md)
   * [13. List(5) - 리스트 정렬](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/13_List(5)_%EB%A6%AC%EC%8A%A4%ED%8A%B8_%EC%A0%95%EB%A0%AC.md)
   
-* [virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
+* [irtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
 
 ### 📁React
 * [React Node Mongo Project](https://github.com/my-choe/TIL/blob/main/React/React_Node_Mongo_Project.md)
