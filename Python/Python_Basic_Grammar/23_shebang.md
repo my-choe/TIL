@@ -53,4 +53,4 @@ chmod +x words.py
 * 다시 위쪽예제와 똑같이 실행하면 정상적으로 실행됩니다.
 
 <br/><br/><br/>
-> 참고 : [wikidocs(파이썬 - 기본을 갈고 닦자!)](https://wikidocs.net/16048)
+> 참고 : [wikidocs(파이썬 - 기본을 갈고 닦자!)](https://wikidocs.net/16051)
