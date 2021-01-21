@@ -82,6 +82,7 @@
   * [27. 변수 scope](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/27_%EB%B3%80%EC%88%98_scope.md)
   * [28. 모든 것은 객체다.](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/28_%EB%AA%A8%EB%93%A0_%EA%B2%83%EC%9D%80_%EA%B0%9D%EC%B2%B4%EB%8B%A4.md)
 
+
 * [Virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
 
 ### 📁React
