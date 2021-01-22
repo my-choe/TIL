@@ -81,7 +81,7 @@
   * [26. Python(파이썬)의 타입 시스템](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/26_Python%EC%9D%98_%ED%83%80%EC%9E%85_%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
   * [27. 변수 scope](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/27_%EB%B3%80%EC%88%98_scope.md)
   * [28. 모든 것은 객체다.](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/28_%EB%AA%A8%EB%93%A0_%EA%B2%83%EC%9D%80_%EA%B0%9D%EC%B2%B4%EB%8B%A4.md)
-
+  * [29.Exception(예외) 흐름과 Exception Handling](https://github.com/my-choe/TIL/blob/main/Python/Python_Basic_Grammar/29_Exception(%EC%98%88%EC%99%B8)%ED%9D%90%EB%A6%84%EA%B3%BC_Exception_Handling.md)
 
 * [Virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
 
