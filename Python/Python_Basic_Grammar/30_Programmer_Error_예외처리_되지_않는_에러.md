@@ -98,6 +98,5 @@ Traceback (most recent call last):
 SyntaxError: EOL while scanning string literal
 ```
 
-
 <br/><br/><br/>
 > 참고 : [wikidocs(파이썬 - 기본을 갈고 닦자!)](https://wikidocs.net/16061)
