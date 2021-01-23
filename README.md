@@ -11,7 +11,7 @@
 * 폴더 및 파일명은 국문 또는 영문으로 작성한다.
 * 커밋은 크게 3가지로 구분하였으며 다음을 참고하여 작성한다.<br />
   * **[create]** : 새로운 문서 생성<br />
-  * **[update]** : 기존 문서 보강 또는 Issues&PR로 발견된 사항 수정<br />
+  * **[update]** : 기존 문서 보강 또는 Issues & PR로 발견된 사항 수정<br />
   * **[hotfix]** : 띄어쓰기 또는 오탈자 수정
   #### 🔑 Example
   <pre><code>[create]: Create Java-DesignPatterns.md<br />
