@@ -1,6 +1,5 @@
 # 📝 37 Set Comprehesions(Set 표현식)
 ## 1. Generator란?
-### 1-1 Iterable
 * generator : iterator를 생성해주는 함수, 함수안에 yield 키워드를 사용함
 * genrator 특징
     * iterable한 순서가 지정됨(모든 generator는 iterator)
