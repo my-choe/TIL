@@ -1,4 +1,4 @@
-# 💻 Today I Learned
+# 💻 Today I Learned 📚
 
 ## 📢Intro
 * 하루동안 공부한 내용 또는 개발 관련 경험을 쌓아가는 **아카이브**입니다.<br />
