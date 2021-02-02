@@ -5,7 +5,7 @@
 * url로부터 제목과 이미지등을 가져와 preview로 보여줄 수 있음
 
 ### 실습 내용
-* code
+* Code
     * Indeed와 Stackoverflow 사이트에서 python 구인정보(구인직종, 회사명, 위치)를 모두 가져옴
     * 가져온 정보를 csv 파일로 생성
 * SuperScrapper
