@@ -2,7 +2,8 @@
 <html>
     <head>
         <title>VanillaJS Chrome</title>
-        <!-- <link rel="stylesheet" href="index.css"/> -->
+        <meta charset="utf-8"/>
+        <link rel="stylesheet" href="css/index.css" />
     </head>
 
     <body>
@@ -12,9 +13,14 @@
         <form class="js-form form">
             <input type="text" placeholder="What is your name?" />
         </form>
-        <h4 class="js-greetings greetings"></h4>
-        
+        <h4 class="js-form-greetings greetings"></h4>
+        <form class="js-form-toDo">
+            <input type="text" placeholder="Write a to do" />
+        </form>
+        <ul class="js-toDoList">
+        </ul>
         <script src="js/clock.js"></script>
         <script src="js/greeting.js"></script>
+        <script src="js/todo.js"></script>
     </body>
 </html>
