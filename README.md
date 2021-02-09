@@ -22,7 +22,9 @@
 ## 🧾 Categories
 * [Algorithm](#Algorithm)
 * [Design Patterns](#design-patterns)
+* [Django](#django)
 * [Git](#git)
+* [Jenkins](#jenkins)
 * [Python](#python)
 * [React](#react)
 * [VanillaJS](#vanillajs)
@@ -47,9 +49,17 @@
     * [Facade Pattern(파사드 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/5_FacadePattern.md)
     * [Flyweight Pattern(플라이웨이트 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/6_FlyweightPattern.md)
     * [Proxy Pattern(프록시 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/StructralPatterns/7_ProxyPattern.md)
+    
+### 📁Django
+* [Django 초보 가이드](https://github.com/my-choe/TIL/tree/main/Django/Django%20%EC%B4%88%EB%B3%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C)
+    * [Django_개념정리.md](https://github.com/my-choe/TIL/blob/main/Django/Django%20%EC%B4%88%EB%B3%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C/Django_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
 
 ### 📁Git
 * [Markdown Guide](https://github.com/my-choe/TIL/blob/main/Git/Github/MarkdownGuide.md)
+
+### 📁Jenkins
+* [0. 젠킨스란?](https://github.com/my-choe/TIL/blob/main/Jenkins/0.%20%EC%A0%A0%ED%82%A8%EC%8A%A4%EB%9E%80%3F.md)
+* [1. 젠킨스 설치](https://github.com/my-choe/TIL/blob/main/Jenkins/1.%20%EC%A0%A0%ED%82%A8%EC%8A%A4%20%EC%84%A4%EC%B9%98.md)
     
 ### 📁Python
 * [Virtualenv](https://github.com/my-choe/TIL/blob/main/Python/virtualenv.md)
