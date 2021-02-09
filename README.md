@@ -13,9 +13,9 @@
   * **[update]** : 기존 문서 보강 또는 Issues & PR로 발견된 사항 수정<br />
   * **[hotfix]** : 띄어쓰기 또는 오탈자 수정
   #### 🔑 Example
-  <pre><code>[create]: Create Java-DesignPatterns.md<br />
-  [update]: pdate Java-DesignPatterns.md(생성패턴 예제 추가)<br />
-  [hotfix]: 띄어쓰기 및 오탈자 수정
+  <pre><code>[create] Create Java-DesignPatterns.md<br />
+  [update] pdate Java-DesignPatterns.md(생성패턴 예제 추가)<br />
+  [hotfix] 띄어쓰기 및 오탈자 수정
   </code></pre><br /><br />
   
 
@@ -52,7 +52,7 @@
     
 ### 📁Django
 * [Django 초보 가이드](https://github.com/my-choe/TIL/tree/main/Django/Django%20%EC%B4%88%EB%B3%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C)
-    * [Django_개념정리.md](https://github.com/my-choe/TIL/blob/main/Django/Django%20%EC%B4%88%EB%B3%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C/Django_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
+    * [Django 개념정리](https://github.com/my-choe/TIL/blob/main/Django/Django%20%EC%B4%88%EB%B3%B4%20%EA%B0%80%EC%9D%B4%EB%93%9C/Django_%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC.md)
 
 ### 📁Git
 * [Markdown Guide](https://github.com/my-choe/TIL/blob/main/Git/Github/MarkdownGuide.md)
