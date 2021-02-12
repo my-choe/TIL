@@ -20,7 +20,6 @@
   
 
 ## 🧾 Categories
-* [Algorithm](#Algorithm)
 * [Design Patterns](#design-patterns)
 * [Django](#django)
 * [Git](#git)
@@ -30,8 +29,6 @@
 * [VanillaJS](#vanillajs)
 
 ---
-
-### 📁 Algorithm
 
 ### 📁Design Patterns
 * [Design Patterns(디자인 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/DesignPatterns.md)
