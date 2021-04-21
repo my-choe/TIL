@@ -58,6 +58,7 @@
 ### 📁Jenkins
 * [0. 젠킨스란?](https://github.com/my-choe/TIL/blob/main/Jenkins/0.%20%EC%A0%A0%ED%82%A8%EC%8A%A4%EB%9E%80%3F.md)
 * [1. 젠킨스 설치](https://github.com/my-choe/TIL/blob/main/Jenkins/1.%20%EC%A0%A0%ED%82%A8%EC%8A%A4%20%EC%84%A4%EC%B9%98.md)
+* [2. 젠킨스 설정](https://github.com/my-choe/TIL/blob/main/Jenkins/2.%20Jenkins%20%EC%84%A4%EC%A0%95.md)
 
 ### 📁Linux
 * [Centos8](https://github.com/my-choe/TIL/tree/main/Linux/Centos8)
