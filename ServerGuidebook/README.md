@@ -7,8 +7,8 @@
   * `03`. [여러 가지 서버](https://github.com/my-choe/Server_Guidebook/blob/main/Chapter%201.%20%EC%84%9C%EB%B2%84%EB%9E%80/03.%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%84%9C%EB%B2%84.md)
   * `04`. [서버 소프트웨어](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%201.%20%EC%84%9C%EB%B2%84%EB%9E%80/04.%20%EC%84%9C%EB%B2%84%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4.md)
   * `05`. [기업에 있어서의 서버](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%201.%20%EC%84%9C%EB%B2%84%EB%9E%80/05.%20%EA%B8%B0%EC%97%85%EC%97%90%20%EC%9E%88%EC%96%B4%EC%84%9C%EC%9D%98%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4.md)
-  * `06`. 서버의 운용 관리
-  * `07`. 서버와 네트워크
+  * `06`. [서버의 운용 관리](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%201.%20서버란/06.%20서버의%20운용%20관리.md)
+  * `07`. [서버와 네트워크서버와 네트워크](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%201.%20서버란/07.%20서버와%20네트워크.md)
 <br/><br/>
 
 ### 💡 Chapter 2. 네트워크 기초 지식
