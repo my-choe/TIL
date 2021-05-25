@@ -27,7 +27,7 @@
 <br/><br/>
 
 ### 💡 Chapter 3. 서버 준비하기
-  * `01`. 어떤 서버를 이용할지를 선택한다
+  * `01`. [어떤 서버를 이용할지를 선택한다](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/01.%20%EC%96%B4%EB%96%A4%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%A0%EC%A7%80%20%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4.md)
   * `02`. 온프레미스형과 클라우드형
   * `03`. 클라우드 서비스의 종류
   * `04`. 자사 또는 데이터 센터
