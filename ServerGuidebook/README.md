@@ -35,17 +35,17 @@
   * `06`. [가상화 소프트웨어의 종류](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/06.%20%EA%B0%80%EC%83%81%ED%99%94%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%9D%98%20%EC%A2%85%EB%A5%98.md)
   * `07`. [서버의 케이스 모양을 고른다](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/07.%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EB%AA%A8%EC%96%91%EC%9D%84%20%EA%B3%A0%EB%A5%B8%EB%8B%A4.md)
   * `08`. [서버를 구성하는 부품](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/08.%20%EC%84%9C%EB%B2%84%EB%A5%BC%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94%20%EB%B6%80%ED%92%88.md)
-  * `09`. UNIX 계열 서버 OS와 Windows 계열 서버 OS
-  * `10`. 어플라이언스 서버
-  * `11`. 가상 어플라이언스 서버
+  * `09`. [UNIX 계열 서버 OS와 Windows 계열 서버 OS](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/09.%20UNIX%20%EA%B3%84%EC%97%B4%20%EC%84%9C%EB%B2%84%20OS%EC%99%80%20Windows%20%EA%B3%84%EC%97%B4%20%EC%84%9C%EB%B2%84%20OS.md)
+  * `10`. [어플라이언스 서버](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/10.%20%EC%96%B4%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EC%84%9C%EB%B2%84.md)
+  * `11`. [가상 어플라이언스 서버](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%203.%20%EC%84%9C%EB%B2%84%20%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0/11.%20%EA%B0%80%EC%83%81%20%EC%96%B4%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%8A%A4%20%EC%84%9C%EB%B2%84.md)
 <br/><br/>
 
 ### 💡 Chapter 4. 사내 서버의 기본
-  * `01`. 사내 서버의 배치
-  * `02`. DHCP 서버의 역할
-  * `03`. DNS 서버의 역할
-  * `04`. DNS 서버의 이중화
-  * `05`. 워크그룹과 Active Directory 도메인
+  * `01`. [사내 서버의 배치](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/01.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EB%B0%B0%EC%B9%98.md)
+  * `02`. [DHCP 서버의 역할](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/02.%20DHCP%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
+  * `03`. [DNS 서버의 역할](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/03.%20DNS%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
+  * `04`. [DNS 서버의 이중화](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/04.%20DNS%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%9D%B4%EC%A4%91%ED%99%94.md)
+  * `05`. [워크그룹과 Active Directory 도메인](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/05.%20%EC%9B%8C%ED%81%AC%EA%B7%B8%EB%A3%B9%EA%B3%BC%20Active%20Directory%20%EB%8F%84%EB%A9%94%EC%9D%B8.md)
   * `06`. Active Directory 도메인을 구성하는 장점
   * `07`. 파일 서버의 역할
   * `08`. 프린트 서버의 역할
