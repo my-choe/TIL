@@ -46,7 +46,7 @@
   * `03`. [DNS 서버의 역할](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/03.%20DNS%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%97%AD%ED%95%A0.md)
   * `04`. [DNS 서버의 이중화](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/04.%20DNS%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EC%9D%B4%EC%A4%91%ED%99%94.md)
   * `05`. [워크그룹과 Active Directory 도메인](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/05.%20%EC%9B%8C%ED%81%AC%EA%B7%B8%EB%A3%B9%EA%B3%BC%20Active%20Directory%20%EB%8F%84%EB%A9%94%EC%9D%B8.md)
-  * `06`. Active Directory 도메인을 구성하는 장점
+  * `06`. [Active Directory 도메인을 구성하는 장점](https://github.com/my-choe/TIL/blob/main/ServerGuidebook/Chapter%204.%20%EC%82%AC%EB%82%B4%20%EC%84%9C%EB%B2%84%EC%9D%98%20%EA%B8%B0%EB%B3%B8/06.%20Active%20Directory%20%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%84%20%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94%20%EC%9E%A5%EC%A0%90.md)
   * `07`. 파일 서버의 역할
   * `08`. 프린트 서버의 역할
   * `09`. SSO 서버의 역할
