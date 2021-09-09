@@ -1,4 +1,4 @@
-## Dump뜨기 (Federate 사용할 경우)
+## Dump뜨기 (Federate 사용하지 않는 경우 2,3번 skip)
 
 ### 1. cmd 실행
 * 관리자 권한으로 cmd 실행
