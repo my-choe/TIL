@@ -21,6 +21,7 @@
 
 ## 🧾 Categories
 * [Coding Test](#coding-test)
+* [DataBase](#database)
 * [Design Patterns](#design-patterns)
 * [Django](#django)
 * [Git](#git)
@@ -32,9 +33,14 @@
 * [VanillaJS](#vanillajs)
 
 ---
+
 ### 📁Coding Test
 * [Programmers](https://github.com/my-choe/TIL/tree/main/CodingTest/Programmers)
   * [LEVEL1](https://github.com/my-choe/TIL/tree/main/CodingTest/Programmers/Level1) 
+  * 
+### 📁Database
+* [MySQL](https://github.com/my-choe/TIL/tree/main/DataBase/MYSQL)
+  * [MySQL 명명규칙](https://github.com/my-choe/TIL/blob/main/DataBase/MYSQL/MySQL%EB%AA%85%EB%AA%85%EA%B7%9C%EC%B9%99.md) 
 
 ### 📁Design Patterns
 * [Design Patterns(디자인 패턴)](https://github.com/my-choe/TIL/blob/main/DesignPatterns/DesignPatterns.md)
