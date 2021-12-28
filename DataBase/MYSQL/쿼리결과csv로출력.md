@@ -1,0 +1,14 @@
+# 쿼리결과csv로출력
+
+#### ✔ MySQL Client CMD > root 접속 > use 데이터베이스명
+
+```sql
+SELECT * FROM 테이블명
+WHERE COL_DATE >= '2021-12-28 17:00:00'
+AND COL_DATE <= '2021-12-28 18:00:00'
+ORDER BY COL_DATE ASC
+INTO OUTFILE 'D:/csvFile/20211228_1718.csv'
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n';
+```
